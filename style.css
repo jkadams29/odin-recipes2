@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Recipes Styles */
 
 * {
@@ -41,4 +42,32 @@ li {
     font-size: 16px;
     font-weight: bold;
     box-shadow: black 5px;
+=======
+/* Recipe Style */
+ 
+/* Body */
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg);
+    background-size: cover;
+}
+
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+ul{
+   
+}
+
+li{
+
+>>>>>>> c41ca30b8c1c018f6a6b35ea0086b8702b88873e
 }
